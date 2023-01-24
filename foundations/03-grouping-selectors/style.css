@@ -1,0 +1,15 @@
+.simple,
+.yolo 
+{
+font-size: 28px;
+font-family: Helvetica,Times,sans-serif;
+}
+
+.simple{
+    background-color: black;
+    color: white;
+}
+.yolo{
+    background-color: yellow;
+    color: black;
+}
